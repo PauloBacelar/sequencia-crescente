@@ -1,0 +1,13 @@
+body {
+  width: 95vw;
+  height: 95vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #232323;
+  font-family: 'Open Sans', sans-serif;
+  color: #f0f0f0;
+  margin: 100px 0;
+}
+  
